@@ -4,6 +4,11 @@
 
 about us
 
+--
+
+Patryk Karolak
+---------------
+
 ---
 
 <!-- .slide: data-background="presentation/logo.png" data-background-size="500px"  -->

@@ -34,3 +34,5 @@ build
 # web2py
 sessions
 cache
+
+node_modules
