@@ -9,6 +9,23 @@ about us
 Patryk Karolak
 ---------------
 
+* student 3 roku informatyki na PP <!-- .element: class="fragment" -->
+* początki programowania <!-- .element: class="fragment" -->
+* moje pasje <!-- .element: class="fragment" -->
+* cele na najbliższe lata <!-- .element: class="fragment" -->
+
+--
+
+Kamil Pawluczuk
+---------------
+* student 3 roku informatyki na PP <!-- .element: class="fragment" -->
+* początki programowania <!-- .element: class="fragment" -->
+* moje pasje <!-- .element: class="fragment" -->
+* cele na najbliższe lata <!-- .element: class="fragment" -->
+---
+
+<!-- .slide: data-background="presentation/PP.png" data-background-size="500px"  -->
+
 ---
 
 <!-- .slide: data-background="presentation/logo.png" data-background-size="500px"  -->
@@ -141,7 +158,7 @@ Jakie są zarobki?
 
 --
 
-Na co się dzieli web development?
+Web development - co to właściwie jest?
 -----
 
 --
