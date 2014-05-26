@@ -39,12 +39,6 @@ Kamil Pawluczuk
 
 --
 
-100 event!
---------------
-http://akai.org.pl/
-
---
-
 Obszary zainteresowania:
 ---------------
 * web development
@@ -63,6 +57,12 @@ Co organizujemy?
 * wykłady
 * warsztaty
 * eventy specjalne
+
+--
+
+100 event!
+--------------
+http://akai.org.pl/
 
 --
 
@@ -109,14 +109,6 @@ AkaiCamp
 http://akai.org.pl/
 
 https://www.facebook.com/akai.pp
-
---
-
-<!-- .slide: data-background="presentation/codeschool.png" -->
-
---
-
-[codeschool.com](http://codeschool.com)
 
 ---
 
