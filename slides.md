@@ -189,4 +189,5 @@ Czy można być “człowiekiem od wszystkiego”?
 
 - [akai.org.pl](http://akai.org.pl)
 - [facebook.com/akai.pp](http://facebook.com/akai.pp)
+- [Prezentacja na GitHub](https://github.com/akai-org/slides-webdevelopment-for-highschool)
 - [AKAI Camp #1 - How to become a Web Developer?](http://akai.org.pl/slides/webstarter/)
