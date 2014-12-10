@@ -182,3 +182,11 @@ Czy wybór technologii na początku kariery jest istotny?
 
 Czy można być “człowiekiem od wszystkiego”?
 -------
+
+---
+
+### Linki
+
+- [akai.org.pl](http://akai.org.pl)
+- [facebook.com/akai.pp](http://facebook.com/akai.pp)
+- [AKAI Camp #1 - How to become a Web Developer?](http://akai.org.pl/slides/webstarter/)
