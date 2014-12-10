@@ -114,17 +114,17 @@ A Wy?
 
 ---
 
-Q&A
+Q & A
 ====
 
 --
 
-Czy warto na informatykę?
+Czy warto iść na informatykę?
 -----
 
 --
 
-Jak jest na studiach?
+Jak to jest na studiach?
 ---------
 
 --
@@ -139,7 +139,7 @@ Jak wielu jest informatyków?
 
 --
 
-Jak łatwo znaleźć pracę?
+Łatwo znaleźć pracę?
 -----
 
 Jakie są zarobki?
@@ -157,7 +157,7 @@ Co w tej chwili jest popularne?
 
 --
 
-Q&A
+Q & A
 ====
 
 --
@@ -182,7 +182,3 @@ Czy wybór technologii na początku kariery jest istotny?
 
 Czy można być “człowiekiem od wszystkiego”?
 -------
-
---
-
-
