@@ -1,4 +1,4 @@
-
+<!-- .slide: data-background="http://akai.org.pl/wp-content/themes/akai-new/images/logo.svg" data-background-size="contain"  -->
 
 ---
 
