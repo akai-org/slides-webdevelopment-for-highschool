@@ -3,6 +3,8 @@ slides-webdevelopment-for-highschool
 
 Prezentacja o tworzeniu aplikacji internetowych (i AKAI) dla uczniów w gimnazjach i liceach.
 
+Slides: http://akai.org.pl/slides/webdevelopment-for-highschool/
+
 ### How to run slides on your machine?
 
 ```sh

@@ -109,7 +109,13 @@ module.exports = function(grunt) {
       views: {
         files: [ 'index.html', 'slides.md' ]
       }
-		}
+		},
+
+    shell: {
+      upload: {
+        command: "rsync -r --progress css js lib plugin presentation index.html slides.md akai:./public_html/slides/webdevelopment-for-highschool"
+      }
+    }
 
 	});
 
@@ -119,7 +125,8 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks( 'grunt-contrib-uglify' );
 	grunt.loadNpmTasks( 'grunt-contrib-watch' );
 	grunt.loadNpmTasks( 'grunt-contrib-sass' );
-	grunt.loadNpmTasks( 'grunt-contrib-connect' );
+  grunt.loadNpmTasks( 'grunt-contrib-connect' );
+	grunt.loadNpmTasks( 'grunt-shell' );
 	grunt.loadNpmTasks( 'grunt-zip' );
 
   // Theme task
@@ -138,6 +145,9 @@ module.exports = function(grunt) {
   grunt.registerTask( 'test', [ 'jshint' ] );
 
   // Default task
-	grunt.registerTask( 'default', [ 'serve' ] );
+  grunt.registerTask( 'default', [ 'serve' ] );
+
+  // Deploy task
+	grunt.registerTask( 'deploy', [ 'build', 'shell:upload' ] );
 
 };
