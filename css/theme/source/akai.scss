@@ -34,4 +34,30 @@ $mainFontSize: 30px;
 
 // Theme template ------------------------------
 @import "../template/theme";
+
+.reveal {
+  section img {
+    border: none;
+    box-shadow: none;
+    background: none;
+  }
+}
+// ---------------------------------------------
+
+
+// Custom slides templates ---------------------
+.reveal {
+  .logo-akai-container {
+    border-radius: 50%;
+    background-color: #fff;
+    display: inline-block;
+    padding: 2em;
+  }
+
+  section img.logo-akai {
+    display: inline-block;
+    width: 8em;
+    height: 8em;
+  }
+}
 // ---------------------------------------------

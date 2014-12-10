@@ -1,27 +1,24 @@
-<!-- .slide: data-background="http://akai.org.pl/wp-content/themes/akai-new/images/logo.svg" data-background-size="contain"  -->
+O nas
+====
 
----
-
-about us
-
---
-
-Patryk Karolak
----------------
-
-* student 3 roku informatyki na PP <!-- .element: class="fragment" -->
-* początki programowania <!-- .element: class="fragment" -->
-* moje pasje <!-- .element: class="fragment" -->
-* cele na najbliższe lata <!-- .element: class="fragment" -->
+Note: This will only appear in the speaker notes window.
 
 --
 
-Kamil Pawluczuk
+Jacek Tomaszewski
 ---------------
-* student 3 roku informatyki na PP <!-- .element: class="fragment" -->
-* początki programowania <!-- .element: class="fragment" -->
-* moje pasje <!-- .element: class="fragment" -->
-* cele na najbliższe lata <!-- .element: class="fragment" -->
+
+* student 2 roku informatyki na PP <!-- .element: class="fragment" -->
+* programista od dziecka <!-- .element: class="fragment" -->
+* freelance webdeveloper od ~6 lat <!-- .element: class="fragment" -->
+
+--
+
+Łukasz Niemier
+---------------
+* student 2 roku informatyki na PP <!-- .element: class="fragment" -->
+* stary wyjadacz kodu <!-- .element: class="fragment" -->
+* ukończył III LO w Poznaniu ;) <!-- .element: class="fragment" -->
 ---
 
 <!-- .slide: data-background="presentation/PP.png" data-background-size="500px"  -->
@@ -39,7 +36,7 @@ Kamil Pawluczuk
 
 --
 
-Obszary zainteresowania:
+Obszary zainteresowania
 ---------------
 * web development
 * mobile development <!-- .element: class="fragment" -->
@@ -60,13 +57,13 @@ Co organizujemy?
 
 --
 
-100 event!
+Ponad 100 eventów!
 --------------
-http://akai.org.pl/
+[akai.org.pl](http://akai.org.pl)
 
 --
 
-AkaiCamp
+AKAI Camp
 -----------
 * krótkie prezentacje <!-- .element: class="fragment" -->
 * kilku prelegentów <!-- .element: class="fragment" -->
@@ -106,9 +103,9 @@ AkaiCamp
 
 --
 
-http://akai.org.pl/
+[akai.org.pl](http://akai.org.pl)
 
-https://www.facebook.com/akai.pp
+[facebook.com/akai.pp](http://facebook.com/akai.pp)
 
 ---
 
