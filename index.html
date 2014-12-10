@@ -29,26 +29,7 @@
 				link.href = 'css/print/pdf.css';
 				document.getElementsByTagName( 'head' )[0].appendChild( link );
 			}
-
-            // window.onLoad = function() {
-            //     window.addEventListener("mousedown", handleClick, false);
-            //     window.addEventListener("contextmenu", function(e) { e.preventDefault(); }, false);
-
-            //     function handleClick(e) {
-            //         e.preventDefault();
-            //         if(e.button === 0) Reveal.next(); 
-            //         if(e.button === 2) Reveal.prev(); 
-            //     }
-            // }
 		</script>
-        <style type="text/css">
-            h2 {
-                /*font-family: 'Arial' !important;*/
-            }
-        </style>
-		<!--[if lt IE 9]>
-		<script src="lib/js/html5shiv.js"></script>
-		<![endif]-->
 	</head>
 
 	<body>
@@ -56,34 +37,11 @@
 		<div class="reveal">
 
 			<div class="slides">
-                <section data-background-size="contain" data-background="presentation/logo.png"></section>
+          <section data-background-size="contain" data-background="http://akai.org.pl/wp-content/themes/akai-new/images/logo.svg" class="slide-logo"></section>
 
-<!--                 <section data-markdown data-separator="\n---\n" data-vertical="\n--\n">
-                    <script type="text/template">
-
-                    </script>
-                </section>
-
-                <section id="fragments">
-                        <h3>Obszar zainteresowań:</h3>
-                        <ol>
-                            <li class="fragment">web development</li>
-                            <li class="fragment">mobile development
-                            <li class="fragment">UX & usability</li>
-                            <li class="fragment">design</li>
-                            <li class="fragment">prowadzenie projektów, startupów</li>
-                            <li class="fragment">SEO</li>
-                            <li class="fragment">...</li>
-                        </ol>
-
-                        <aside class="notes">
-                            This slide has fragments which are also stepped through in the notes window.
-                        </aside>
-                </section> -->
-
-                <section data-markdown="presentation/presentation.md" data-separator="\n---\n" data-vertical="\n--\n">
-                </section>
-            </div>
+          <section data-markdown="presentation/presentation.md" data-separator="\n---\n" data-vertical="\n--\n">
+          </section>
+      </div>
 
 		</div>
 
@@ -100,7 +58,7 @@
 				history: true,
 				center: true,
 
-				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				theme: "akai", // available themes are in /css/theme
 				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
 
 				// Parallax scrolling

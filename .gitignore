@@ -36,3 +36,6 @@ sessions
 cache
 
 node_modules
+
+css/theme/*.css
+css/theme/*.css.map

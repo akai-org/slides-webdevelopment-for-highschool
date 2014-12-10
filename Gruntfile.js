@@ -38,7 +38,8 @@ module.exports = function(grunt) {
 				files: {
 					'css/theme/default.css': 'css/theme/source/default.scss',
 					'css/theme/beige.css': 'css/theme/source/beige.scss',
-					'css/theme/night.css': 'css/theme/source/night.scss',
+          'css/theme/night.css': 'css/theme/source/night.scss',
+					'css/theme/akai.css': 'css/theme/source/akai.scss',
 					'css/theme/serif.css': 'css/theme/source/serif.scss',
 					'css/theme/simple.css': 'css/theme/source/simple.scss',
 					'css/theme/sky.css': 'css/theme/source/sky.scss',
@@ -121,17 +122,17 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks( 'grunt-contrib-connect' );
 	grunt.loadNpmTasks( 'grunt-zip' );
 
-	// Build task
-	grunt.registerTask( 'build', [ 'jshint', 'cssmin', 'uglify' ] );
+  // Theme task
+  grunt.registerTask( 'themes', [ 'sass' ] );
 
-	// Theme task
-	grunt.registerTask( 'themes', [ 'sass' ] );
+	// Build task
+	grunt.registerTask( 'build', [ 'themes', 'jshint', 'cssmin', 'uglify' ] );
 
 	// Package presentation to archive
 	grunt.registerTask( 'package', [ 'default', 'zip' ] );
 
 	// Serve presentation locally
-	grunt.registerTask( 'serve', [ 'connect', 'watch' ] );
+	grunt.registerTask( 'serve', [ 'build', 'connect', 'watch' ] );
 
 	// Run tests
   grunt.registerTask( 'test', [ 'jshint' ] );
